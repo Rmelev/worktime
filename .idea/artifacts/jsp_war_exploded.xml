@@ -48,6 +48,8 @@
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jdbc:9.0.7" />
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-juli:9.0.7" />
+          <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.4" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.5.4" />
         </element>
       </element>
       <element id="directory" name="META-INF">

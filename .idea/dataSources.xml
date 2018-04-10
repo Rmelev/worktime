@@ -8,8 +8,8 @@
       <jdbc-url>jdbc:postgresql://ec2-54-243-213-188.compute-1.amazonaws.com:5432/dand947h7ck0so</jdbc-url>
       <driver-properties>
         <property name="ApplicationName" value="DataGrip" />
-        <property name="ssl" value="true" />
         <property name="sslfactory" value="org.postgresql.ssl.NonValidatingFactory" />
+        <property name="ssl" value="true" />
       </driver-properties>
     </data-source>
   </component>

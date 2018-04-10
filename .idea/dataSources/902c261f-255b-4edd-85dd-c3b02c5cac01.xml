@@ -6913,65 +6913,299 @@
     <database id="2304" parent="1" name="d5eg2u2hm8loco">
       <ObjectId>10750305</ObjectId>
     </database>
-    <schema id="2305" parent="2" name="public">
+    <database id="2305" parent="1" name="d9ffbbuu1dplgr">
+      <ObjectId>10806981</ObjectId>
+    </database>
+    <database id="2306" parent="1" name="dfn2icotjceq9h">
+      <ObjectId>10806983</ObjectId>
+    </database>
+    <database id="2307" parent="1" name="dbg7trieor7ohi">
+      <ObjectId>10806985</ObjectId>
+    </database>
+    <database id="2308" parent="1" name="d77ld4gc62gnjq">
+      <ObjectId>10806987</ObjectId>
+    </database>
+    <database id="2309" parent="1" name="d2h9vlhcje4a0h">
+      <ObjectId>10806989</ObjectId>
+    </database>
+    <database id="2310" parent="1" name="dacrab8fu1gtf9">
+      <ObjectId>10806991</ObjectId>
+    </database>
+    <database id="2311" parent="1" name="d9hbe8e7rui0ou">
+      <ObjectId>10806993</ObjectId>
+    </database>
+    <database id="2312" parent="1" name="d606conhtiaru5">
+      <ObjectId>10806995</ObjectId>
+    </database>
+    <database id="2313" parent="1" name="d4i87l1aa60qgl">
+      <ObjectId>10806997</ObjectId>
+    </database>
+    <database id="2314" parent="1" name="ddutm7qu4fk884">
+      <ObjectId>10806999</ObjectId>
+    </database>
+    <database id="2315" parent="1" name="d9ab9qocgu42f1">
+      <ObjectId>10807001</ObjectId>
+    </database>
+    <database id="2316" parent="1" name="d40bo5990nbjj8">
+      <ObjectId>10807421</ObjectId>
+    </database>
+    <database id="2317" parent="1" name="d1ov3apadi4mgd">
+      <ObjectId>10807461</ObjectId>
+    </database>
+    <database id="2318" parent="1" name="d54g65aik8dbat">
+      <ObjectId>10807472</ObjectId>
+    </database>
+    <database id="2319" parent="1" name="dcm1pd969l33fb">
+      <ObjectId>10807487</ObjectId>
+    </database>
+    <database id="2320" parent="1" name="d9ulehbsplpgtr">
+      <ObjectId>10807490</ObjectId>
+    </database>
+    <database id="2321" parent="1" name="dckgp50tu0ppso">
+      <ObjectId>10807492</ObjectId>
+    </database>
+    <database id="2322" parent="1" name="d6d6v2cp9oh1q2">
+      <ObjectId>10807496</ObjectId>
+    </database>
+    <database id="2323" parent="1" name="d6e6cjpvp9qucu">
+      <ObjectId>10807511</ObjectId>
+    </database>
+    <database id="2324" parent="1" name="dv6qdt55d9nqo">
+      <ObjectId>10807515</ObjectId>
+    </database>
+    <database id="2325" parent="1" name="d67nmh5j5qlsq8">
+      <ObjectId>10807517</ObjectId>
+    </database>
+    <database id="2326" parent="1" name="de9kmi44fc05ed">
+      <ObjectId>10807519</ObjectId>
+    </database>
+    <database id="2327" parent="1" name="d90ibf3oi1vk23">
+      <ObjectId>10807591</ObjectId>
+    </database>
+    <database id="2328" parent="1" name="d6hov5bej79g0u">
+      <ObjectId>10808001</ObjectId>
+    </database>
+    <database id="2329" parent="1" name="deevnbmsl35kv6">
+      <ObjectId>10808003</ObjectId>
+    </database>
+    <database id="2330" parent="1" name="d392pvnqge8f4r">
+      <ObjectId>10808005</ObjectId>
+    </database>
+    <database id="2331" parent="1" name="d1l51b48u83djn">
+      <ObjectId>10808007</ObjectId>
+    </database>
+    <database id="2332" parent="1" name="d2covcgov0mjd9">
+      <ObjectId>10808009</ObjectId>
+    </database>
+    <database id="2333" parent="1" name="ddb22b616ubqrj">
+      <ObjectId>10808087</ObjectId>
+    </database>
+    <database id="2334" parent="1" name="df1siujqh877m">
+      <ObjectId>10812531</ObjectId>
+    </database>
+    <database id="2335" parent="1" name="d6ajsq2dg9dbrl">
+      <ObjectId>10812533</ObjectId>
+    </database>
+    <database id="2336" parent="1" name="d1cm6innnnc6gq">
+      <ObjectId>10812692</ObjectId>
+    </database>
+    <database id="2337" parent="1" name="d76k9pod6tc9na">
+      <ObjectId>10816649</ObjectId>
+    </database>
+    <database id="2338" parent="1" name="d5pa2mf3o5vttl">
+      <ObjectId>10816657</ObjectId>
+    </database>
+    <database id="2339" parent="1" name="d7c8gc5kdcdu0l">
+      <ObjectId>10816660</ObjectId>
+    </database>
+    <database id="2340" parent="1" name="d5qvohl6t0cn63">
+      <ObjectId>10816662</ObjectId>
+    </database>
+    <database id="2341" parent="1" name="dcvge7obuor9hh">
+      <ObjectId>10816664</ObjectId>
+    </database>
+    <database id="2342" parent="1" name="d9u9ng3i32r4nv">
+      <ObjectId>10816668</ObjectId>
+    </database>
+    <database id="2343" parent="1" name="dlj9h4bu9qb37">
+      <ObjectId>10816671</ObjectId>
+    </database>
+    <database id="2344" parent="1" name="d589tsmrbuanii">
+      <ObjectId>10816673</ObjectId>
+    </database>
+    <database id="2345" parent="1" name="d8r03cme8aqfe">
+      <ObjectId>10816675</ObjectId>
+    </database>
+    <database id="2346" parent="1" name="dap7dpqn75pj8b">
+      <ObjectId>10816677</ObjectId>
+    </database>
+    <database id="2347" parent="1" name="d1umk4qlvo8vd7">
+      <ObjectId>10826655</ObjectId>
+    </database>
+    <database id="2348" parent="1" name="d268fv528mgo71">
+      <ObjectId>10826660</ObjectId>
+    </database>
+    <database id="2349" parent="1" name="dea5vj00uekug3">
+      <ObjectId>10826663</ObjectId>
+    </database>
+    <database id="2350" parent="1" name="d14is5e5p76b7p">
+      <ObjectId>10826667</ObjectId>
+    </database>
+    <database id="2351" parent="1" name="dui9l1k7dk0jq">
+      <ObjectId>10826669</ObjectId>
+    </database>
+    <database id="2352" parent="1" name="ddvhb4u8ps6i7">
+      <ObjectId>10826671</ObjectId>
+    </database>
+    <database id="2353" parent="1" name="d6dko8f2g9bf94">
+      <ObjectId>10826673</ObjectId>
+    </database>
+    <database id="2354" parent="1" name="d7gq3h97ql91no">
+      <ObjectId>10826675</ObjectId>
+    </database>
+    <database id="2355" parent="1" name="dbbgs7h5l26alp">
+      <ObjectId>10850625</ObjectId>
+    </database>
+    <database id="2356" parent="1" name="dd535t9cveiukg">
+      <ObjectId>10850628</ObjectId>
+    </database>
+    <database id="2357" parent="1" name="dc32qa1359i5kb">
+      <ObjectId>10850633</ObjectId>
+    </database>
+    <database id="2358" parent="1" name="d3lrnamfd84hfe">
+      <ObjectId>10850637</ObjectId>
+    </database>
+    <database id="2359" parent="1" name="de554uoeibs6r5">
+      <ObjectId>10850643</ObjectId>
+    </database>
+    <database id="2360" parent="1" name="d8ofupaot0us48">
+      <ObjectId>10850648</ObjectId>
+    </database>
+    <database id="2361" parent="1" name="ddhfgdgie66a9a">
+      <ObjectId>10850658</ObjectId>
+    </database>
+    <database id="2362" parent="1" name="d6ofjvd45h69s3">
+      <ObjectId>10850662</ObjectId>
+    </database>
+    <database id="2363" parent="1" name="d83cspa85ksma">
+      <ObjectId>10850668</ObjectId>
+    </database>
+    <database id="2364" parent="1" name="d4mvq7mrm519kr">
+      <ObjectId>10850673</ObjectId>
+    </database>
+    <database id="2365" parent="1" name="dcfi47vgb15kd4">
+      <ObjectId>10850675</ObjectId>
+    </database>
+    <database id="2366" parent="1" name="dpl86linip0p9">
+      <ObjectId>10850681</ObjectId>
+    </database>
+    <database id="2367" parent="1" name="dfnn1muh68udsu">
+      <ObjectId>10850683</ObjectId>
+    </database>
+    <database id="2368" parent="1" name="dddhkcfo8ds11r">
+      <ObjectId>10850688</ObjectId>
+    </database>
+    <database id="2369" parent="1" name="dat86lira9m3hh">
+      <ObjectId>10850691</ObjectId>
+    </database>
+    <database id="2370" parent="1" name="d52vamagoe2jqr">
+      <ObjectId>10855334</ObjectId>
+    </database>
+    <database id="2371" parent="1" name="dcb78dupher99s">
+      <ObjectId>10855336</ObjectId>
+    </database>
+    <database id="2372" parent="1" name="d24e068nj6ls2">
+      <ObjectId>10855339</ObjectId>
+    </database>
+    <database id="2373" parent="1" name="d9uhtohlr1jjfk">
+      <ObjectId>10855400</ObjectId>
+    </database>
+    <database id="2374" parent="1" name="d146gv6tm79j5p">
+      <ObjectId>10855567</ObjectId>
+    </database>
+    <database id="2375" parent="1" name="d8gqvpfi5q5n2o">
+      <ObjectId>10855571</ObjectId>
+    </database>
+    <database id="2376" parent="1" name="d3h3nt3tj80pak">
+      <ObjectId>10855583</ObjectId>
+    </database>
+    <database id="2377" parent="1" name="d1h0g2l81q8etn">
+      <ObjectId>10863770</ObjectId>
+    </database>
+    <database id="2378" parent="1" name="db9smqeusl2hh3">
+      <ObjectId>10863772</ObjectId>
+    </database>
+    <database id="2379" parent="1" name="deope4vj1ud6mp">
+      <ObjectId>10863774</ObjectId>
+    </database>
+    <database id="2380" parent="1" name="da56icp1b3ljho">
+      <ObjectId>10863777</ObjectId>
+    </database>
+    <database id="2381" parent="1" name="dfptdmhro8tmeq">
+      <ObjectId>10863779</ObjectId>
+    </database>
+    <database id="2382" parent="1" name="d3t0scuf90l1j8">
+      <ObjectId>10863781</ObjectId>
+    </database>
+    <schema id="2383" parent="2" name="public">
       <ObjectId>2200</ObjectId>
-      <IntrospectionTimestamp>2018-04-10.13:47:16.251</IntrospectionTimestamp>
+      <IntrospectionTimestamp>2018-04-10.15:28:34.213</IntrospectionTimestamp>
       <IntrospectionStateNumber>4984854</IntrospectionStateNumber>
       <Current>1</Current>
       <Visible>1</Visible>
     </schema>
-    <schema id="2306" parent="2" name="pg_catalog">
+    <schema id="2384" parent="2" name="pg_catalog">
       <ObjectId>11</ObjectId>
     </schema>
-    <schema id="2307" parent="2" name="pg_toast">
+    <schema id="2385" parent="2" name="pg_toast">
       <ObjectId>99</ObjectId>
     </schema>
-    <schema id="2308" parent="2" name="pg_temp_1">
+    <schema id="2386" parent="2" name="pg_temp_1">
       <ObjectId>11736</ObjectId>
     </schema>
-    <schema id="2309" parent="2" name="pg_toast_temp_1">
+    <schema id="2387" parent="2" name="pg_toast_temp_1">
       <ObjectId>11737</ObjectId>
     </schema>
-    <schema id="2310" parent="2" name="information_schema">
+    <schema id="2388" parent="2" name="information_schema">
       <ObjectId>13532</ObjectId>
     </schema>
-    <sequence id="2311" parent="2305" name="breaks_id_seq">
+    <sequence id="2389" parent="2383" name="breaks_id_seq">
       <ObjectId>10797675</ObjectId>
       <StateNumber>4984854</StateNumber>
       <BelongsToColumn>1</BelongsToColumn>
     </sequence>
-    <sequence id="2312" parent="2305" name="records_id_seq">
+    <sequence id="2390" parent="2383" name="records_id_seq">
       <ObjectId>10797639</ObjectId>
       <StateNumber>4984832</StateNumber>
       <BelongsToColumn>1</BelongsToColumn>
     </sequence>
-    <sequence id="2313" parent="2305" name="roles_id_seq">
+    <sequence id="2391" parent="2383" name="roles_id_seq">
       <ObjectId>10797559</ObjectId>
       <StateNumber>4984786</StateNumber>
       <BelongsToColumn>1</BelongsToColumn>
     </sequence>
-    <sequence id="2314" parent="2305" name="users_id_seq">
+    <sequence id="2392" parent="2383" name="users_id_seq">
       <ObjectId>10797599</ObjectId>
       <StateNumber>4984806</StateNumber>
       <BelongsToColumn>1</BelongsToColumn>
     </sequence>
-    <table id="2315" parent="2305" name="breaks">
+    <table id="2393" parent="2383" name="breaks">
       <ObjectId>10797677</ObjectId>
       <StateNumber>4984854</StateNumber>
     </table>
-    <table id="2316" parent="2305" name="records">
+    <table id="2394" parent="2383" name="records">
       <ObjectId>10797641</ObjectId>
       <StateNumber>4984854</StateNumber>
     </table>
-    <table id="2317" parent="2305" name="roles">
+    <table id="2395" parent="2383" name="roles">
       <ObjectId>10797561</ObjectId>
       <StateNumber>4984806</StateNumber>
     </table>
-    <table id="2318" parent="2305" name="users">
+    <table id="2396" parent="2383" name="users">
       <ObjectId>10797601</ObjectId>
       <StateNumber>4984806</StateNumber>
     </table>
-    <column id="2319" parent="2315" name="id">
+    <column id="2397" parent="2393" name="id">
       <Position>1</Position>
       <DataType>integer|0</DataType>
       <NotNull>1</NotNull>
@@ -6979,35 +7213,35 @@
       <SequenceName>breaks_id_seq</SequenceName>
       <DefaultExpression>nextval(&apos;breaks_id_seq&apos;::regclass)</DefaultExpression>
     </column>
-    <column id="2320" parent="2315" name="record_id">
+    <column id="2398" parent="2393" name="record_id">
       <Position>2</Position>
       <DataType>integer|0</DataType>
       <NotNull>1</NotNull>
       <StateNumber>4984854</StateNumber>
     </column>
-    <column id="2321" parent="2315" name="out">
+    <column id="2399" parent="2393" name="out">
       <Position>3</Position>
       <DataType>timestamp|0</DataType>
       <StateNumber>4984854</StateNumber>
       <DefaultExpression>now()</DefaultExpression>
     </column>
-    <column id="2322" parent="2315" name="comein">
+    <column id="2400" parent="2393" name="comein">
       <Position>4</Position>
       <DataType>timestamp|0</DataType>
       <StateNumber>4984854</StateNumber>
     </column>
-    <index id="2323" parent="2315" name="breaks_pkey">
+    <index id="2401" parent="2393" name="breaks_pkey">
       <ObjectId>10797682</ObjectId>
       <ColNames>id</ColNames>
       <Unique>1</Unique>
     </index>
-    <key id="2324" parent="2315" name="breaks_pkey">
+    <key id="2402" parent="2393" name="breaks_pkey">
       <ObjectId>10797683</ObjectId>
       <ColNames>id</ColNames>
       <UnderlyingIndexName>breaks_pkey</UnderlyingIndexName>
       <Primary>1</Primary>
     </key>
-    <foreign-key id="2325" parent="2315" name="breaks_record_id_fkey">
+    <foreign-key id="2403" parent="2393" name="breaks_record_id_fkey">
       <ObjectId>10797684</ObjectId>
       <ColNames>record_id</ColNames>
       <RefTableId>10797641</RefTableId>
@@ -7016,7 +7250,7 @@
       <RefKeyName>records_pkey</RefKeyName>
       <RefColNames>id</RefColNames>
     </foreign-key>
-    <column id="2326" parent="2316" name="id">
+    <column id="2404" parent="2394" name="id">
       <Position>1</Position>
       <DataType>integer|0</DataType>
       <NotNull>1</NotNull>
@@ -7024,53 +7258,53 @@
       <SequenceName>records_id_seq</SequenceName>
       <DefaultExpression>nextval(&apos;records_id_seq&apos;::regclass)</DefaultExpression>
     </column>
-    <column id="2327" parent="2316" name="user_id">
+    <column id="2405" parent="2394" name="user_id">
       <Position>2</Position>
       <DataType>integer|0</DataType>
       <NotNull>1</NotNull>
       <StateNumber>4984832</StateNumber>
     </column>
-    <column id="2328" parent="2316" name="come">
+    <column id="2406" parent="2394" name="come">
       <Position>3</Position>
       <DataType>timestamp|0</DataType>
       <StateNumber>4984832</StateNumber>
       <DefaultExpression>now()</DefaultExpression>
     </column>
-    <column id="2329" parent="2316" name="away">
+    <column id="2407" parent="2394" name="away">
       <Position>4</Position>
       <DataType>timestamp|0</DataType>
       <StateNumber>4984832</StateNumber>
     </column>
-    <column id="2330" parent="2316" name="totaltime">
+    <column id="2408" parent="2394" name="totaltime">
       <Position>5</Position>
       <DataType>time|0</DataType>
       <StateNumber>4984832</StateNumber>
     </column>
-    <column id="2331" parent="2316" name="status">
+    <column id="2409" parent="2394" name="status">
       <Position>6</Position>
       <DataType>boolean|0</DataType>
       <StateNumber>4984832</StateNumber>
       <DefaultExpression>false</DefaultExpression>
     </column>
-    <column id="2332" parent="2316" name="fordate">
+    <column id="2410" parent="2394" name="fordate">
       <Position>7</Position>
       <DataType>integer|0</DataType>
       <NotNull>1</NotNull>
       <StateNumber>4984832</StateNumber>
       <DefaultExpression>date_part(&apos;day&apos;::text, now())</DefaultExpression>
     </column>
-    <index id="2333" parent="2316" name="records_pkey">
+    <index id="2411" parent="2394" name="records_pkey">
       <ObjectId>10797648</ObjectId>
       <ColNames>id</ColNames>
       <Unique>1</Unique>
     </index>
-    <key id="2334" parent="2316" name="records_pkey">
+    <key id="2412" parent="2394" name="records_pkey">
       <ObjectId>10797649</ObjectId>
       <ColNames>id</ColNames>
       <UnderlyingIndexName>records_pkey</UnderlyingIndexName>
       <Primary>1</Primary>
     </key>
-    <column id="2335" parent="2317" name="id">
+    <column id="2413" parent="2395" name="id">
       <Position>1</Position>
       <DataType>integer|0</DataType>
       <NotNull>1</NotNull>
@@ -7078,34 +7312,34 @@
       <SequenceName>roles_id_seq</SequenceName>
       <DefaultExpression>nextval(&apos;roles_id_seq&apos;::regclass)</DefaultExpression>
     </column>
-    <column id="2336" parent="2317" name="name">
+    <column id="2414" parent="2395" name="name">
       <Position>2</Position>
       <DataType>varchar(255)|0</DataType>
       <NotNull>1</NotNull>
       <StateNumber>4984786</StateNumber>
     </column>
-    <index id="2337" parent="2317" name="roles_pkey">
+    <index id="2415" parent="2395" name="roles_pkey">
       <ObjectId>10797565</ObjectId>
       <ColNames>id</ColNames>
       <Unique>1</Unique>
     </index>
-    <index id="2338" parent="2317" name="roles_name_key">
+    <index id="2416" parent="2395" name="roles_name_key">
       <ObjectId>10797568</ObjectId>
       <ColNames>name</ColNames>
       <Unique>1</Unique>
     </index>
-    <key id="2339" parent="2317" name="roles_pkey">
+    <key id="2417" parent="2395" name="roles_pkey">
       <ObjectId>10797567</ObjectId>
       <ColNames>id</ColNames>
       <UnderlyingIndexName>roles_pkey</UnderlyingIndexName>
       <Primary>1</Primary>
     </key>
-    <key id="2340" parent="2317" name="roles_name_key">
+    <key id="2418" parent="2395" name="roles_name_key">
       <ObjectId>10797569</ObjectId>
       <ColNames>name</ColNames>
       <UnderlyingIndexName>roles_name_key</UnderlyingIndexName>
     </key>
-    <column id="2341" parent="2318" name="id">
+    <column id="2419" parent="2396" name="id">
       <Position>1</Position>
       <DataType>integer|0</DataType>
       <NotNull>1</NotNull>
@@ -7113,51 +7347,51 @@
       <SequenceName>users_id_seq</SequenceName>
       <DefaultExpression>nextval(&apos;users_id_seq&apos;::regclass)</DefaultExpression>
     </column>
-    <column id="2342" parent="2318" name="login">
+    <column id="2420" parent="2396" name="login">
       <Position>2</Position>
       <DataType>varchar(255)|0</DataType>
       <NotNull>1</NotNull>
       <StateNumber>4984806</StateNumber>
     </column>
-    <column id="2343" parent="2318" name="password">
+    <column id="2421" parent="2396" name="password">
       <Position>3</Position>
       <DataType>varchar(255)|0</DataType>
       <NotNull>1</NotNull>
       <StateNumber>4984806</StateNumber>
     </column>
-    <column id="2344" parent="2318" name="email">
+    <column id="2422" parent="2396" name="email">
       <Position>4</Position>
       <DataType>varchar(255)|0</DataType>
       <StateNumber>4984806</StateNumber>
     </column>
-    <column id="2345" parent="2318" name="role_id">
+    <column id="2423" parent="2396" name="role_id">
       <Position>5</Position>
       <DataType>integer|0</DataType>
       <NotNull>1</NotNull>
       <StateNumber>4984806</StateNumber>
     </column>
-    <index id="2346" parent="2318" name="users_pkey">
+    <index id="2424" parent="2396" name="users_pkey">
       <ObjectId>10797608</ObjectId>
       <ColNames>id</ColNames>
       <Unique>1</Unique>
     </index>
-    <index id="2347" parent="2318" name="users_login_key">
+    <index id="2425" parent="2396" name="users_login_key">
       <ObjectId>10797611</ObjectId>
       <ColNames>login</ColNames>
       <Unique>1</Unique>
     </index>
-    <key id="2348" parent="2318" name="users_pkey">
+    <key id="2426" parent="2396" name="users_pkey">
       <ObjectId>10797609</ObjectId>
       <ColNames>id</ColNames>
       <UnderlyingIndexName>users_pkey</UnderlyingIndexName>
       <Primary>1</Primary>
     </key>
-    <key id="2349" parent="2318" name="users_login_key">
+    <key id="2427" parent="2396" name="users_login_key">
       <ObjectId>10797612</ObjectId>
       <ColNames>login</ColNames>
       <UnderlyingIndexName>users_login_key</UnderlyingIndexName>
     </key>
-    <foreign-key id="2350" parent="2318" name="users_role_id_fkey">
+    <foreign-key id="2428" parent="2396" name="users_role_id_fkey">
       <ObjectId>10797613</ObjectId>
       <ColNames>role_id</ColNames>
       <RefTableId>10797561</RefTableId>
